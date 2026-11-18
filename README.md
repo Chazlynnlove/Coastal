@@ -1,2 +1,2 @@
-# beach-party
+# Coastal
 It's a hackathon where you ship 65 hours to get an invite to the Coastal Hackathon in Puerto Plata, Dominican Republic. Need based stipends are provided. The prompt is to build a game related to the beach, with hardware or software. For example, a surfing simulator, an arcade game where you avoid falling coconuts, or a beach sandbox game. You journal your progress, and the projects are reviewed. When you have 65 hours, you get emailed the invite. Then, you can have need-based or merit-based flights stipends and merit-based bus stipends. For everybody who arrives at Santiago De Los Caballeros, we get to take the bus together. The theme is announced at the hackathon. 
